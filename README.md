@@ -26,7 +26,7 @@ Here you can find my title certificates:
 - [Execution engineer](https://drive.google.com/file/d/1JzNRb6iAFBZWOYr8n1uKXdw2Yy3UNTKn/view)
 - [Bachelor of Applied Engineering](https://drive.google.com/file/d/1MU8i59CoAFxAJzHU-zRsJqUenw8Rhxvz/view)
 - [Telecommunications Technologist](https://drive.google.com/file/d/1vhqzUiYuVnJ9MVMWoRhG1ryMxuP05ow4/view)
-- [Bachelor of technology](https://drive.google.com/file/d/tu-enlace-de-certificado/view)
+- [Bachelor of technology](https://drive.google.com/file/d/1GJLFCnWViib22GBPBSKkEmGmlXG0AwR4/view)
 - [Master in javascript](https://drive.google.com/file/d/1xXPc4JV-4OK3ChFvtB17UqQad425oKCw/view)
 - [Master in CSS](https://drive.google.com/file/d/1mEhf9GMHUBxdP_o2cdV6IGHZMTAoyKm2/view)
 - [Visual Studio Code](https://drive.google.com/file/d/16quuGCV_FWGjSjoAOm2ER4L8tKL0uhI7/view)
