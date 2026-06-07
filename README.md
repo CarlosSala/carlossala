@@ -34,7 +34,7 @@ Here you can find my title certificates:
 
 
 ## Contact
-📧 Email: [carlos.sala.munoz@gmail.com](mailto:carlossala.dev@gmail.com)
+📧 Email: [carlossala.dev@gmail.com](mailto:carlossala.dev@gmail.com)
 
 ---
 
